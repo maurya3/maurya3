@@ -1,100 +1,67 @@
-# 👋 Hi, I'm Deepak Maurya
+# Deepak Maurya
 
-🎓 M.Tech in Robotics & Computer Vision | IIT Jodhpur  
-🤖 Robotics | AI | Computer Vision | Autonomous Systems  
-🌐 [LinkedIn](https://www.linkedin.com/in/dmaurya3) | 📧 maurya.3@alumni.iitj.ac.in | 📱 +91 8858793819  
-💼 GitHub: [mauryadk](https://github.com/mauryadk) | Alt: dmaurya3
+**Senior Robotics, Computer Vision & Autonomous Systems Engineer**  
+M.Tech in Robotics & Computer Vision, IIT Jodhpur
 
----
-
-## 🧠 About Me
-
-I’m a Robotics and Computer Vision Engineer with deep industry and research experience in AI-driven automation, autonomous mobile robots, and intelligent perception systems. From designing multi-task CNNs for industrial sorting to integrating robotic vision with PLCs and building ROS2 navigation stacks—I bring hands-on expertise to solve real-world problems at the edge.
+📍 India | 📧 maurya.3@alumni.iitj.ac.in  
+🔗 LinkedIn: https://www.linkedin.com/in/dmaurya3  
+💻 GitHub: https://github.com/mauryadk  
 
 ---
 
-## 💼 Experience
+## Executive Summary
 
-### 🚀 **Anzo Controls Pvt. Ltd.** — *Lead Engineer – Robotics, AI & Computer Vision*  
-📍 Gurugram, Haryana | 🗓 Oct 2022 – Present
-
-- Developed AI vision-based **sorting and defect detection** solutions for packaging lines.
-- Designed, trained, and deployed **multi-task CNNs** for real-time SKU classification and quality checks on **NVIDIA Jetson Xavier**.
-- Integrated models with industrial **PLC systems over Modbus-TCP** for seamless automation.
-- Built preprocessing pipelines and performance evaluation tools using **PyTorch + OpenCV**.
-- Architected a **fleet management system** for mobile robots with sensor fusion, motion planning, and real-time decision making.
-- Mentored junior engineers in ML, CNNs, and deployment strategies.
-
-### 🛰️ **Zebu Intelligent Systems** — *Robotics Software Engineer*  
-📍 Onsite | 🗓 Feb 2022 – Sep 2022
-
-- Built **semantic segmentation pipeline** using U-Net for aerial landing site detection.
-- Managed data preprocessing, augmentation, labeling, and **hyperparameter tuning**.
-- Evaluated models using **IoU & Dice metrics**, optimizing them for **embedded inference**.
-- Delivered stakeholder presentations with detailed performance insights.
-
-### 🧪 **IIT Jodhpur – ISRO** — *Junior Research Fellow (Computer Vision)*  
-📍 Jodhpur, Rajasthan | 🗓 Aug 2021 – Feb 2022
-
-- Implemented **Position-Based Visual Servoing (PBVS)** for humanoid robotic arm using vision feedback.
-- Designed **singularity avoidance algorithms**, integrated **inverse kinematics** and **Jacobian-based** planning.
-- Simulated using **ROS + Gazebo**, and coordinated with ISRO’s IISU team for deployment specs.
+Robotics and Computer Vision Engineer with extensive experience delivering **industrial-grade autonomous systems and AI-powered vision solutions**. Proven ability to design, deploy, and scale systems across **perception, planning, control, and edge AI**, with strong exposure to **AMRs, ROS2, LiDAR, PLC-integrated vision systems, and real-time industrial communication**.
 
 ---
 
-## 📌 Key Projects
+## Core Expertise
 
-### 🟦 **Real-Time Carton Sorting**  
-**Technologies**: PyTorch, Jetson Xavier, OpenCV  
-- Built and deployed **CNN-based model** to classify carton types and detect packaging defects.
-- Optimized for **real-time embedded performance** in industrial settings.
-
-### 🌍 **Aerial Landing Site Detection**  
-**Technologies**: TensorFlow, U-Net, Image Segmentation  
-- Designed and validated a **semantic segmentation model** for drone landing zones.
-- Custom preprocessing and **robust generalization** to diverse terrain.
+- Robotics Software Engineering (ROS2, Nav2)
+- Computer Vision & Deep Learning (YOLO, CNNs, Segmentation)
+- Autonomous Mobile Robots (AMRs)
+- Industrial Automation & PLC Integration
+- LiDAR-Based Perception & Sensor Fusion
+- Edge AI Deployment (NVIDIA Jetson)
+- Real-Time & Embedded Systems
 
 ---
 
-## 🧰 Skills & Tools
+## Professional Experience
 
-**Languages**: Python, C++, Bash  
-**Frameworks**: ROS2, OpenCV, PyTorch, TensorFlow, FastAPI  
-**Simulation**: Gazebo, RViz  
-**Embedded**: Jetson Xavier, Modbus-TCP, Industrial LiDARs, IMUs  
-**Tools**: Docker, Git, Jira, SQLite, Linux  
-**Other**: Software Architecture, Real-Time Systems, UI/UX Integration
+**Anzo Controls Pvt. Ltd.** — Lead Engineer, Robotics & AI (2022–Present)  
+- Led development of AI-driven vision systems for inspection, sorting, and barcode validation.  
+- Designed ROS2-based AMR navigation and perception stacks.  
+- Integrated robotics and vision systems with PLCs via Modbus-TCP.  
+- Deployed optimized AI models on NVIDIA Jetson platforms.  
 
----
+**Zebu Intelligent Systems** — Robotics Software Engineer (2022)  
+- Built semantic segmentation pipelines for aerial landing site detection.  
+- Optimized models for embedded inference and field deployment.  
 
-## 🏆 Publications
-
-📘 **Segregation of Multiple Robots Using Model Predictive Control With Asynchronous Path Smoothing**  
-*6th IEEE CCTA (Control Systems Society Conference), 2022* — Co-author  
-> Proposed MPC-based optimal control strategy with asynchronous path smoothing for robot segregation without prior knowledge of shape, size, or direction.
-
----
-
-## 🌱 Currently Exploring
-
-- ML for edge deployment in robotics  
-- Multimodal sensor fusion for industrial perception  
-- Real-time cloud-integrated robotics systems
+**IIT Jodhpur – ISRO (IISU)** — Junior Research Fellow (2021–2022)  
+- Developed vision-based control and kinematic algorithms for robotic manipulators.  
+- Conducted ROS and Gazebo simulations aligned with ISRO specifications.  
 
 ---
 
-## 🎯 Interests
+## Key Projects
 
-🎨 Art & design  
-🏸 Table tennis & badminton  
-🌍 Traveling  
-🧠 R&D in AI, ML, and real-world robotics
+- **Industrial Vision-Based Carton Sorting & Defect Detection**  
+- **Multi-Camera Human Detection & Intrusion Monitoring System**  
+- **Vision-Based Parcel Dimensioning with Barcode Integration**  
+- **Autonomous Mobile Robot Navigation using ROS2 & LiDAR**  
+- **Low-Level EtherCAT Configuration & Industrial Communication**  
+
+---
+
+## Publications
+
+**Segregation of Multiple Robots Using Model Predictive Control With Asynchronous Path Smoothing**  
+6th IEEE Conference on Control Technology and Applications (CCTA), 2022  
 
 ---
 
-📬 Reach Out:  
-📧 maurya.3@alumni.iitj.ac.in  
-📱 +91 8858793819  
-🔗 [LinkedIn](https://www.linkedin.com/in/dmaurya3)
+## Current Focus
 
----
+Edge AI for robotics, vision-guided manipulation, multimodal sensor fusion, and scalable robotics software architectures.
