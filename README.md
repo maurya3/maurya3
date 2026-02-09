@@ -48,11 +48,6 @@ I’m a Senior Robotics & AI Engineer with **5+ years** of experience in designi
 
 ## 📌 Key Projects
 
-### 🏗️ **Containerized Robotics Platform**  
-**Technologies**: Docker, ROS2, NVIDIA Jetson, DDS  
-- Architected and implemented a **Docker-based containerization strategy** for robotic software stacks, enabling seamless deployment across edge and cloud.
-- Reduced **deployment time by 70%** with GPU passthrough support for NVIDIA Jetson devices.
-
 ### 🤖 **Autonomous Mobile Robot (AMR) Fleet System**  
 **Technologies**: ROS2, Nav2, SLAM, REST APIs, EtherCAT  
 - Led development of **AMR navigation and fleet management systems** using ROS2 and DDS middleware.
